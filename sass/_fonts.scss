@@ -1,0 +1,11 @@
+@import "bourbon";
+
+@include font-face("AlfiosBold", "/fonts/AlfiosBold/AlfiosBold", $file-formats: eot woff ttf);
+
+@include font-face("Ubuntu-RI", "/fonts/Ubuntu-RI/Ubuntu-RI", $file-formats: eot ttf);
+
+@include font-face("AlfiosRegular", "/fonts/AlfiosRegular/AlfiosRegular", $file-formats: eot woff ttf);
+
+@include font-face("Font-Awesome", "/fonts/Font-Awesome/fontawesome-webfont", $file-formats: eot woff ttf);
+
+@include font-face("OpenSansRegular", "/fonts/OpenSansRegular/OpenSans-Regular", $file-formats:  ttf);

@@ -1,0 +1,10 @@
+{
+  "name": "hockey",
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "normalize-css": "normalize.css#^3.0.3",
+    "bootstrap": "^3.3.6",
+    "tooltipster": "^3.3.0",
+    "bourbon": "^4.2.6"
+  }
+}

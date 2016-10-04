@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "AlfiosBold";
+  font-style: normal;
+  font-weight: normal;
+  src: url("/fonts/AlfiosBold/AlfiosBold.eot?#iefix") format("embedded-opentype"), url("/fonts/AlfiosBold/AlfiosBold.woff") format("woff"), url("/fonts/AlfiosBold/AlfiosBold.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "Ubuntu-RI";
+  font-style: normal;
+  font-weight: normal;
+  src: url("/fonts/Ubuntu-RI/Ubuntu-RI.eot?#iefix") format("embedded-opentype"), url("/fonts/Ubuntu-RI/Ubuntu-RI.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "AlfiosRegular";
+  font-style: normal;
+  font-weight: normal;
+  src: url("/fonts/AlfiosRegular/AlfiosRegular.eot?#iefix") format("embedded-opentype"), url("/fonts/AlfiosRegular/AlfiosRegular.woff") format("woff"), url("/fonts/AlfiosRegular/AlfiosRegular.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "Font-Awesome";
+  font-style: normal;
+  font-weight: normal;
+  src: url("/fonts/Font-Awesome/fontawesome-webfont.eot?#iefix") format("embedded-opentype"), url("/fonts/Font-Awesome/fontawesome-webfont.woff") format("woff"), url("/fonts/Font-Awesome/fontawesome-webfont.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "OpenSansRegular";
+  font-style: normal;
+  font-weight: normal;
+  src: url("/fonts/OpenSansRegular/OpenSans-Regular.ttf") format("truetype"); }
